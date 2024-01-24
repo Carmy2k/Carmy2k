@@ -1,6 +1,6 @@
 # Benvenuto nel Mio Mondo Digitale! 👨‍💻🔐
 
-Ciao! Sono [Tuo Nome], uno studente appassionato di informatica presso l'ITI Renato Elia. 🏫 Attualmente, sto immergendomi nel mondo affascinante della programmazione e della cybersecurity.
+Ciao! Sono Carmine, uno studente appassionato di informatica presso l'ITI Renato Elia. 🏫 Attualmente, sto immergendomi nel mondo affascinante della programmazione e della cybersecurity.
 
 ## Chi Sono
 
